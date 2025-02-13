@@ -10,8 +10,6 @@ import com.example.socialmedia.repository.UserRepository;
 import com.example.socialmedia.services.abtracts.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-
-import java.util.ArrayList;
 import java.util.List;
 
 @Service
